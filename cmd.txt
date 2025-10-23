@@ -1,0 +1,1 @@
+Set-Location D:/MLops_project/first-mlops-project-main; D:/MLops_project/.venv/Scripts/python.exe -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
